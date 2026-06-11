@@ -1,7 +1,22 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi, I'm Aiman
+
+**Computer Science Student | Web Developer | UI/UX Enthusiast | Cybersecurity Explorer**
+
+I am a Computer Science diploma student at Universiti Poly-Tech Malaysia (UPTM). My journey in tech is driven by a passion for creating systems that look great and function seamlessly. I love bridging the gap between technical logic and visual design—whether that means coding a backend, designing a clean user interface, or working through complex calculus equations. 
+
+Right now, I am actively expanding my boundaries and diving into the world of **Cybersecurity**. I am not an expert yet, but I am highly motivated, constantly learning, and building my foundation in secure digital ecosystems every single day.
+
+### 🚀 What I'm Up To
+*   **🎓 Software Development:** Building my Final Year Project—a **Student Academic Kiosk System**. It's an offline-based platform integrated with a local database and a local AI model (Gemma 3) to efficiently assist students.
+*   **🔐 Continuous Learning:** Exploring the core concepts of cybersecurity to understand vulnerabilities and learn how to build safer applications from the ground up.
+
+### 💻 Tech Stack & Tools
+*   **Web Development:** PHP, HTML, Tailwind CSS
+*   **Tech & Logic:** Local AI Deployment (Gemma), Database Management, Mathematical Problem Solving
+
+> *"I might not know everything yet, but I am always building, always exploring, and always learning."*
 
 
 ## 🌐 Socials:
