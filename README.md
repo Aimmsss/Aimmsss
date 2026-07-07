@@ -1,5 +1,18 @@
 # 💫 About Me:
-## Hi there 👋<br><br># 👋 Hi, I'm Aiman<br><br>**Computer Science Student | Web Developer | UI/UX Enthusiast | Cybersecurity Explorer**<br><br>I am a Computer Science diploma student at Universiti Poly-Tech Malaysia (UPTM). My journey in tech is driven by a passion for creating systems that look good and function seamlessly. I love bridging the gap between technical logic and visual design - whether that means coding a backend, designing a clean UI, or securing the infrastructure.<br><br>Right now, I am actively expanding my boundaries and diving into the world of **Cybersecurity**. I am not an expert yet, but I am highly motivated, constantly learning, and building my foundation in secure digital ecosystems every single day.<br><br>### 🚀 What I'm Up To<br>* **💻 Software Development:** Building a **Student Academic Kiosk System**. It's an offline-based platform integrated with a database and a local AI model (Gemma 3) to efficiently assist students.<br>* **🛡️ Continuous Learning:** Exploring the core concepts of cybersecurity to understand vulnerabilities and learn how to build safer applications. I am currently learning the basics of both **Red Team** (offensive security) and **Blue Team** (defensive security) operations.<br><br>### 💻 Tech Stack & Tools<br>* **Web Development:** PHP, HTML, Tailwind CSS, MySQL, Python<br>* **Cybersecurity & Recon:** Nmap, Wireshark, TryHackMe<br>* **Environments:** Linux Terminal, Fedora Security Lab, SwayFX<br>* **Tech & Logic:** Local AI Deployment (Gemma), Database Management, Figma<br><br>> *"I might not know everything yet, but I am always building, always exploring, and always learning."*<br><br>## 🌐 Socials:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aiman Azizan) <br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhamadaiman0606@gmail.com) 
+## Hi there 👋<br>
+<br> 👋 Hi, I'm Aiman<br>
+<br>**Computer Science Student | Web Developer | UI/UX Enthusiast | Cybersecurity Explorer**<br>
+<br>I am a Computer Science diploma student at Universiti Poly-Tech Malaysia (UPTM). My journey in tech is driven by a passion for creating systems that look good and function seamlessly. I love bridging the gap between technical logic and visual design - whether that means coding a backend, designing a clean UI, or securing the infrastructure.<br>
+<br>Right now, I am actively expanding my boundaries and diving into the world of **Cybersecurity**. I am not an expert yet, but I am highly motivated, constantly learning, and building my foundation in secure digital ecosystems every single day.<br>
+<br> 🚀 What I'm Up To<br>
+**💻 Software Development:** Building a **Student Academic Kiosk System**. It's an offline-based platform integrated with a database and a local AI model (Gemma 3) to efficiently assist students.<br>
+**🛡️ Continuous Learning:** Exploring the core concepts of cybersecurity to understand vulnerabilities and learn how to build safer applications. I am currently learning the basics of both **Red Team** (offensive security) and **Blue Team** (defensive security) operations.<br>
+<br> 💻 Tech Stack & Tools<br>* **Web Development:** PHP, HTML, Tailwind CSS, MySQL, Python<br>
+**Cybersecurity & Recon:** Nmap, Wireshark, TryHackMe<br>
+**Environments:** Linux Terminal, Kali Linux, Fedora Security Lab<br>
+**Tech & Logic:** Local AI Deployment (Gemma), Database Management, Figma<br>
+<br> *"I might not know everything yet, but I am always building, always exploring, and always learning."*<br>
+<br> 🌐 Socials:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aiman Azizan) <br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhamadaiman0606@gmail.com) 
 
 
 # 💻 Tech Stack:
