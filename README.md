@@ -13,7 +13,7 @@ Right now, I am actively expanding my boundaries and diving into the world of **
 *   **🔐 Continuous Learning:** Exploring the core concepts of cybersecurity to understand vulnerabilities and learn how to build safer applications from the ground up.
 
 ### 💻 Tech Stack & Tools
-*   **Web Development:** PHP, HTML, Tailwind CSS
+*   **Web Development:** PHP, HTML, Tailwind CSS, Python
 *   **Tech & Logic:** Local AI Deployment (Gemma), Database Management,
 
 > *"I might not know everything yet, but I am always building, always exploring, and always learning."*
