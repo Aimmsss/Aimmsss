@@ -7,7 +7,8 @@
 <br> 🚀 What I'm Up To<br>
 **💻 Software Development:** Building a **Student Academic Kiosk System**. It's an offline-based platform integrated with a database and a local AI model (Gemma 3) to efficiently assist students.<br>
 **🛡️ Continuous Learning:** Exploring the core concepts of cybersecurity to understand vulnerabilities and learn how to build safer applications. I am currently learning the basics of both **Red Team** (offensive security) and **Blue Team** (defensive security) operations.<br>
-<br> 💻 Tech Stack & Tools<br>* **Web Development:** PHP, HTML, Tailwind CSS, MySQL, Python<br>
+<br> 💻 Tech Stack & Tools<br>
+**Web Development:** PHP, HTML, Tailwind CSS, MySQL, Python<br>
 **Cybersecurity & Recon:** Nmap, Wireshark, TryHackMe<br>
 **Environments:** Linux Terminal, Kali Linux, Fedora Security Lab<br>
 **Tech & Logic:** Local AI Deployment (Gemma), Database Management, Figma<br>
