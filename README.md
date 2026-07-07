@@ -4,7 +4,7 @@
 
 **Computer Science Student | Web Developer | UI/UX Enthusiast | Cybersecurity Explorer**
 
-I am a Computer Science diploma student at Universiti Poly-Tech Malaysia (UPTM). My journey in tech is driven by a passion for creating systems that look great and function seamlessly. I love bridging the gap between technical logic and visual design—whether that means coding a backend, designing a clean user interface, or working through complex calculus equations. 
+I am a Computer Science diploma student at Universiti Poly-Tech Malaysia (UPTM). My journey in tech is driven by a passion for creating systems that look great and function seamlessly. I love bridging the gap between technical logic and visual design - whether that means coding a backend, designing a clean user interface.
 
 Right now, I am actively expanding my boundaries and diving into the world of **Cybersecurity**. I am not an expert yet, but I am highly motivated, constantly learning, and building my foundation in secure digital ecosystems every single day.
 
@@ -14,7 +14,7 @@ Right now, I am actively expanding my boundaries and diving into the world of **
 
 ### 💻 Tech Stack & Tools
 *   **Web Development:** PHP, HTML, Tailwind CSS
-*   **Tech & Logic:** Local AI Deployment (Gemma), Database Management, Mathematical Problem Solving
+*   **Tech & Logic:** Local AI Deployment (Gemma), Database Management,
 
 > *"I might not know everything yet, but I am always building, always exploring, and always learning."*
 
